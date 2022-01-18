@@ -4,7 +4,7 @@
 
 1. The source code is written in Python with Tensorflow (including Keras) and Jupyter. Please make sure you have these tools installed properly in your system.
    - The version of Python used: 3.6.9
-   - The version of Tensorflow used: 1.12.0
+   - The version of Tensorflow used: 1.12.0 / 2.3.1
    - The version of  Keras used: 2.2.4
    - The version of the notebook server is: 6.0.1
 
@@ -46,4 +46,5 @@ Please place the ID and OOD sub-classes datas  to './classdatas_id/' and './clas
 
 Please place the ID, adversarial  sample and adversarial  sub-classes datas  to './classdatas_id/',  './adv_datas/' and './classdatas_adv/'   before  executing the above cells. 
 
-# AnomalyDetection_NPL
+# AEs
+The folder of AEs contains AE, VAE, KL&AE and MemAE files.
